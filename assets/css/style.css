@@ -152,10 +152,16 @@ body {
     /* color: #D7D7D7;   */
     font-weight: 700;
 }
+.heading1{
+    font-size: 25px;  
+    /* color: #D7D7D7;   */
+    font-weight: 400;
+}
 .subheading{
     line-height: 29px;
     text-align: left;
     /* color: #D7D7D7; */
+	font-weight: 400;
     font-size: 20x;
 }
 .image-half {
