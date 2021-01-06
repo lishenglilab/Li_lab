@@ -170,6 +170,9 @@ body {
 .banner-image {
   width: 300px;
 }
+.team-image {
+  width: 150px;
+}
 .card-section {
   padding: 70px 0px;
 }
